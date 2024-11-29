@@ -1,0 +1,24 @@
+{
+    "folders": [
+        {
+            "name": "signLangHub",
+            "path": "."
+        },
+        {
+            "name": "dictionary-dataProcessing",
+            "path": "./dictionary-dataProcessing"
+        },
+        {
+            "name": "dictionary-nest-server",
+            "path": "./dictionary-nest-server"
+        },
+        {
+            "name": "matching-nest-server",
+            "path": "./matching-nest-server"
+        },
+        {
+            "name": "matching-react-client",
+            "path": "./matching-react-client"
+        },
+    ],
+}
